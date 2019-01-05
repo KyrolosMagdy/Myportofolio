@@ -1,7 +1,7 @@
 {
-  "main.css": "/Myportofolio/./static/css/main.c912d4c9.chunk.css",
-  "main.js": "/Myportofolio/./static/js/main.c035b4f5.chunk.js",
-  "main.js.map": "/Myportofolio/./static/js/main.c035b4f5.chunk.js.map",
+  "main.css": "/Myportofolio/./static/css/main.23274062.chunk.css",
+  "main.js": "/Myportofolio/./static/js/main.aa0366e6.chunk.js",
+  "main.js.map": "/Myportofolio/./static/js/main.aa0366e6.chunk.js.map",
   "static/css/1.503242c4.chunk.css": "/Myportofolio/./static/css/1.503242c4.chunk.css",
   "static/js/1.c84c3886.chunk.js": "/Myportofolio/./static/js/1.c84c3886.chunk.js",
   "static/js/1.c84c3886.chunk.js.map": "/Myportofolio/./static/js/1.c84c3886.chunk.js.map",
@@ -11,9 +11,9 @@
   "static/media/RopoFriend.PNG": "/Myportofolio/./static/media/RopoFriend.3938d5ab.PNG",
   "static/media/SmartBrain.PNG": "/Myportofolio/./static/media/SmartBrain.930b42a8.PNG",
   "static/media/MyProtofolio.PNG": "/Myportofolio/./static/media/MyProtofolio.564a5fbe.PNG",
+  "static/css/main.23274062.chunk.css.map": "/Myportofolio/./static/css/main.23274062.chunk.css.map",
   "static/css/1.503242c4.chunk.css.map": "/Myportofolio/./static/css/1.503242c4.chunk.css.map",
-  "static/css/main.c912d4c9.chunk.css.map": "/Myportofolio/./static/css/main.c912d4c9.chunk.css.map",
   "index.html": "/Myportofolio/./index.html",
-  "precache-manifest.5367e6c5137ea44abeb809476dcea03a.js": "/Myportofolio/./precache-manifest.5367e6c5137ea44abeb809476dcea03a.js",
+  "precache-manifest.a84233070045a6697ee5a2d352f732b3.js": "/Myportofolio/./precache-manifest.a84233070045a6697ee5a2d352f732b3.js",
   "service-worker.js": "/Myportofolio/./service-worker.js"
 }
